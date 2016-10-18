@@ -4,6 +4,7 @@
 #include <ctime>
 #include <cstdlib>
 #include <cmath>
+#include <stdlib.h>
 
 using namespace std;
 
@@ -19,14 +20,8 @@ const int RADAR = 3;
 const int SEA_MINE = 7;
 
 void clearScreen() {
-    cout << endl;
-
-    if (CLEAR_SCREEN)
-    {
-        cout << "\033c";
-    }
-
-    cout << endl;
+	cout << flush;
+	system("CLS");
 
     return;
 }
