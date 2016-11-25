@@ -1,4 +1,4 @@
-#include "Nimbai.h"
+#include "NimbAi.h"
 
 using namespace std;
 
