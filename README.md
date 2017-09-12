@@ -12,7 +12,7 @@
 
   *	No backend code, only pure html
   
-## Game “For Science”: AVALIBLE UNDER https://github.com/rdiersing1/ForScienceRepository
+## Game “For Science”: avaliable under https://github.com/rdiersing1/ForScienceRepository
 
   *	Created a runner style game using unity engine and C#. Worked with associate for original artwork.
   
