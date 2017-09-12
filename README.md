@@ -12,7 +12,7 @@
 
   *	No backend code, only pure html
   
-## Spot Share: Code not on github currently
+## Spot Share: Not currently hosted
 
   *	Collaborated with a group of five to create a social media website where users could share locations.
   
