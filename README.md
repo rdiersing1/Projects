@@ -12,17 +12,19 @@
 
   *	No backend code, only pure html
   
-## Game “For Science”: avaliable under https://github.com/rdiersing1/ForScienceRepository
-
-  *	Created a runner style game using unity engine and C#. Worked with associate for original artwork.
-  
-  *	Designed and implemented physics to teleport entities forward in time. 
-  
 ## Spot Share: Code not on github currently
 
   *	Collaborated with a group of five to create a social media website where users could share locations.
   
   *	Implemented a live feed, and added new shared locations in real time using google maps API.
+  
+# Projects
+  
+## Game “For Science”: avaliable under https://github.com/rdiersing1/ForScienceRepository
+
+  *	Created a runner style game using unity engine and C#. Worked with associate for original artwork.
+  
+  *	Designed and implemented physics to teleport entities forward in time. 
   
 ## Scrabble
 
