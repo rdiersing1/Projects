@@ -3,7 +3,6 @@
 ## How To Install:
 * First download the jar file and be sure to download the config file in the SAME directory as the jar file. I made this for fun so I didnt really feel like adding a ton of logic to deal with where the config file was located, so please put it in the same directory. 
 * Also create a rsc directory inside of the directory you download the jar to, so that the images have somewhere to go. 
-* Same thing goes for the format of the config file, I included some logic to parse it well, however I did not spend to long on it. 
 
 ## How To Use
 * Simply edit the config file paramaters then run "java -jar Mandelbrot.jar".
